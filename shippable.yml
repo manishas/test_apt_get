@@ -1,0 +1,4 @@
+language: python
+python: 2.7
+install: apt-get install -y lib32stdc++6 lib32z1
+script: echo "That's all, folks!"
